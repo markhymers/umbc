@@ -2,6 +2,10 @@
 
 ## 2022
 
+![That's not my Pony...](/2022_07_1_Pony.jpg){:class="img-responsive"}
+
+That's not my Pony... (Fiona Watt, Rachel Wells; ISBN: 978-0746080320)
+
 ![Where's Spot?](/2022_04_1_Spot.jpg){:class="img-responsive"}
 
 Where's Spot (Eric Hill; ISBN: 978-0723263661)
